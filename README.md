@@ -1,9 +1,13 @@
 ApachePress
 ===========
 
+---
+
 ##About
 
 ApachePress is a simple, WordPress-branded theme for your Apache directory listing.
+
+---
 
 ##Installation
 
@@ -25,6 +29,8 @@ Should be changed to...
 
 * Once done, rename `htaccess.txt` to `.htaccess` in both the `/share` and `/share/theme` folders.
 
+---
+
 ##ApachePress themes
 
 If you'd like to alter the default ApachePress theme, look in the `/theme` folder and you'll find the following files:
@@ -42,6 +48,8 @@ Adding your own icons is a little more involved. You'll need to edit the main Ap
 The above rule will assign an icon named `gif.png` from the directory `/{FOLDERNAME}/theme/icons/` to any file with the `.gif` extension.
 
 This URL path is relative to your site's root.
+
+---
 
 ##Mime Types
 
