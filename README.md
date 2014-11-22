@@ -17,7 +17,7 @@ Let's assume you have a folder named `share` in your server root directory (the 
 
 * Download and unzip ApachePress
 * Copy and paste the contents of the `/apachepress` folder to your `/share` folder.
-* Edit `htaccess.txt` (now in the `/share` folder) and update all instances of paths marked with *{FOLDERNAME}* to point to your site root.
+* Edit `htaccess.txt` (now in the `/share` folder) and update all instances of paths marked with *{FOLDERNAME}* to relatively point to your site root.
 
 So...
 
